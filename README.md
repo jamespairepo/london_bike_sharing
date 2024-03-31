@@ -2,4 +2,4 @@
 
 Tableau Dashboard
 
-![screenshot](/screenshots/bikes_dashboard.jpg)
+![screenshot](/screenshots/bikes_dashboard.png)
